@@ -1,0 +1,48 @@
+[
+    {
+        "symbol": "ETHBTC",
+        "priceChange": "-0.00011000",
+        "priceChangePercent": "-0.164",
+        "weightedAvgPrice": "0.06706178",
+        "prevClosePrice": "0.06710000",
+        "lastPrice": "0.06699100",
+        "lastQty": "12.90140000",
+        "bidPrice": "0.06699100",
+        "bidQty": "7.81980000",
+        "askPrice": "0.06699200",
+        "askQty": "26.17050000",
+        "openPrice": "0.06710100",
+        "highPrice": "0.06733700",
+        "lowPrice": "0.06653300",
+        "volume": "52764.41180000",i
+        "quoteVolume": "3538.47512610",
+        "openTime": 1665831316734,
+        "closeTime": 1665917716734,
+        "firstId": 381816465,
+        "lastId": 381922707,
+        "count": 106243
+    },
+    {
+        "symbol": "LTCBTC",
+        "priceChange": "-0.00002300",
+        "priceChangePercent": "-0.859",
+        "weightedAvgPrice": "0.00266353",
+        "prevClosePrice": "0.00267800",
+        "lastPrice": "0.00265600",
+        "lastQty": "7.19400000",
+        "bidPrice": "0.00265500",
+        "bidQty": "67.54500000",
+        "askPrice": "0.00265600",
+        "askQty": "12.01400000",
+        "openPrice": "0.00267900",
+        "highPrice": "0.00269400",
+        "lowPrice": "0.00263700",
+        "volume": "31765.62600000",
+        "quoteVolume": "84.60858130",
+        "openTime": 1665831305625,
+        "closeTime": 1665917705625,
+        "firstId": 84285343,
+        "lastId": 84296538,
+        "count": 11196
+    }
+]
