@@ -1,5 +1,28 @@
 
     {
         "location": "เชียงใหม่",
-        "weather": "แดดจร้444า"
+        "weather": "แดดจ้า",
+        "themp": "30 องศา"
+        
+    },
+    {
+        "location": "ลำพูน",
+        "weather": "แจ่มใส",
+        "themp": "31 องศา"
+    },
+    {
+        "location": "ลำปาง",
+        "weather": "แจ่มใส",
+        "themp": "32 องศา"
+    },
+    {
+        "location": "กรุงเทพ",
+        "weather": "ขุ่นมัว",
+        "themp": "34 องศา"
+    },
+    {
+        "location": "ภูเก็ต",
+        "weather": "ฟ้าครึ้ม",
+        "themp": "35 องศา"
     }
+
