@@ -1,32 +1,32 @@
 [
    {
-      "location":"เชียงใหม่",
-      "weather":"แดดจ้า",
+      "location":"CHIANG MAI",
+      "weather":"SUNNY",
       "themp":"29 °C"
    },
    {
-      "location":"ลำพูน",
-      "weather":"แจ่มใส",
+      "location":"LAMPHUN",
+      "weather":"BRIGHT",
       "themp":"28 °C"
    },
    {
-      "location":"ลำปาง",
-      "weather":"แจ่มใส",
+      "location":"LAMPANG",
+      "weather":"BRIGHT",
       "themp":"31 °C"
    },
    {
-      "location":"กรุงเทพ",
-      "weather":"ขุ่นมัว",
+      "location":"BANGKOK",
+      "weather":"CLOUDY",
       "themp":"30 °C"
    },
    {
-      "location":"ภูเก็ต",
-      "weather":"ฝนฟ้าคะนอง",
+      "location":"PHUKET",
+      "weather":"PARTLY CLOUDY",
       "themp":"24 °C"
    },
    {
-      "location":" นครราชสีมา",
-      "weather":"แจ่มใส",
+      "location":" NAKHON RATCHASIMA",
+      "weather":"BRIGHT",
       "themp":"27 °C"
    }
 ]
