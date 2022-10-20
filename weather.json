@@ -1,33 +1,32 @@
-
-    {
-        "location": "เชียงใหม่",
-        "weather": "แดดจ้า",
-        "themp": "29 °C"
-        
-    },
-    {
-        "location": "ลำพูน",
-        "weather": "แจ่มใส",
-        "themp": "28 °C"
-    },
-    {
-        "location": "ลำปาง",
-        "weather": "แจ่มใส",
-        "themp": "31 °C"
-    },
-    {
-        "location": "กรุงเทพ",
-        "weather": "ขุ่นมัว",
-        "themp": "30 °C"
-    },
-    {
-        "location": "ภูเก็ต",
-        "weather": "ฝนฟ้าคะนอง",
-        "themp": "24 °C"
-     },
-     {
-        "location": " นครราชสีมา",
-        "weather": "แจ่มใส",
-        "themp": "27 °C"
-    }
-
+[
+   {
+      "location":"เชียงใหม่",
+      "weather":"แดดจ้า",
+      "themp":"29 °C"
+   },
+   {
+      "location":"ลำพูน",
+      "weather":"แจ่มใส",
+      "themp":"28 °C"
+   },
+   {
+      "location":"ลำปาง",
+      "weather":"แจ่มใส",
+      "themp":"31 °C"
+   },
+   {
+      "location":"กรุงเทพ",
+      "weather":"ขุ่นมัว",
+      "themp":"30 °C"
+   },
+   {
+      "location":"ภูเก็ต",
+      "weather":"ฝนฟ้าคะนอง",
+      "themp":"24 °C"
+   },
+   {
+      "location":" นครราชสีมา",
+      "weather":"แจ่มใส",
+      "themp":"27 °C"
+   }
+]
