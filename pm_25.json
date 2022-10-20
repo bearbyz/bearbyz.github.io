@@ -1,5 +1,5 @@
 [
-      {
+   {
       "location":"India",
       "city":"Delhi",
       "qty":"287",
@@ -38,7 +38,7 @@
    {
       "location":"Kuwait",
       "city":"Kuwait City",
-     "qty":"154",
+      "qty":"154",
       "status":"affect everyone."
    },
    {
