@@ -1,0 +1,32 @@
+[
+   {
+      "location":"CHIANG MAI",
+      "weather":"SUNNY",
+      "themp":"29 °C"
+   },
+   {
+      "location":"LAMPHUN",
+      "weather":"BRIGHT",
+      "themp":"28 °C"
+   },
+   {
+      "location":"LAMPANG",
+      "weather":"BRIGHT",
+      "themp":"31 °C"
+   },
+   {
+      "location":"BANGKOK",
+      "weather":"CLOUDY",
+      "themp":"30 °C"
+   },
+   {
+      "location":"PHUKET",
+      "weather":"PARTLY CLOUDY",
+      "themp":"24 °C"
+   },
+   {
+      "location":" NAKHON RATCHASIMA",
+      "weather":"BRIGHT",
+      "themp":"27 °C"
+   }
+]
