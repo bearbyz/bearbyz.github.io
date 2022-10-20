@@ -1,32 +1,62 @@
 [
-   {
-      "location":"CHIANG MAI",
-      "weather":"SUNNY",
-      "themp":"29 °C"
+      {
+      "location":"India",
+      "city":"Delhi",
+      "qty":"287",
+      "status":"It affects everyone severely."
    },
    {
-      "location":"LAMPHUN",
-      "weather":"BRIGHT",
-      "themp":"28 °C"
+      "location":"United States",
+      "city":"Seattle",
+      "qty":"235",
+      "status":"It affects everyone severely."
    },
    {
-      "location":"LAMPANG",
-      "weather":"BRIGHT",
-      "themp":"31 °C"
+      "location":"United States",
+      "city":"Portland",
+      "qty":"204",
+      "status":"It affects everyone severely."
    },
    {
-      "location":"BANGKOK",
-      "weather":"CLOUDY",
-      "themp":"30 °C"
+      "location":"China",
+      "city":"Beijing",
+      "qty":"169",
+      "status":"affect everyone."
    },
    {
-      "location":"PHUKET",
-      "weather":"PARTLY CLOUDY",
-      "themp":"24 °C"
+      "location":"China",
+      "city":"Wuhan",
+      "qty":"162",
+      "status":"affect everyone."
    },
    {
-      "location":" NAKHON RATCHASIMA",
-      "weather":"BRIGHT",
-      "themp":"27 °C"
-   }
+      "location":"Canada",
+      "city":"Vancouver BC",
+      "qty":"156",
+      "status":"affect everyone."
+   },
+   {
+      "location":"Kuwait",
+      "city":"Kuwait City",
+     "qty":"154",
+      "status":"affect everyone."
+   },
+   {
+      "location":"Italy",
+      "city":"Milan",
+      "qty":"154",
+      "status":"affect everyone."
+   },
+   {
+      "location":"India",
+      "city":"Kolkata",
+      "qty":"152",
+      "status":"affect everyone."
+   },
+   {
+      "location":"Nepal",
+      "city":"Kathmandu",
+      "qty":"144",
+      "status":"Affects the patient or is physically weak."
+   },
 ]
